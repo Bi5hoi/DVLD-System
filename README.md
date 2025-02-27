@@ -1,9 +1,4 @@
-A desktop application designed to manage driving licenses and vehicles registrations. include applying for 
-local and international licenses, renewals, applications management, and tests, and detaining and releasing
-licenses and drivers and users and has the simple CRUD operations like find, read, update, add, delete for
-everything.
-Technologies:
-Framework: .NET Framework (C#).
-Database: Microsoft SQL Server with ADO.NET.
-User Interface: Windows Forms (WinForms).
-Architecture: 3-tier architecture.
+A desktop application designed to manage driving licenses and vehicle registrations, including applying for
+local and international licenses, renewals, application management, and tests, as well as detaining and releasing
+licenses, drivers, and users. It also supports standard CRUD operations—create, read, update, and delete—for all entities.
+Technologies: Framework: .NET Framework (C#), Database: Microsoft SQL Server with ADO.NET, User Interface: Windows Forms (WinForms), Architecture: 3-tier architecture.
