@@ -5,7 +5,7 @@ everything.
 
 Technologies Used
 
-Framework: .NET Framework (C#)
-Database: Microsoft SQL Server with ADO.NET
-User Interface: Windows Forms (WinForms)
-Architecture: 3-tier architecture
+Framework: .NET Framework (C#).
+Database: Microsoft SQL Server with ADO.NET.
+User Interface: Windows Forms (WinForms).
+Architecture: 3-tier architecture.
